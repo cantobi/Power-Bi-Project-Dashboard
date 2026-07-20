@@ -47,7 +47,7 @@ The analysis categorizes the contributing human factors, revealing that "Driver 
 Full visuals
 on power bi data stories 
 https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Roadmap-to-Safety-Analyzing-NYC-Traffic-Collision-Trends-amp-the/m-p/5308347#M16398
-raw
+raw doc
 
 https://app.fabric.microsoft.com/view?r=eyJrIjoiNTRlNTI3ZDAtZTZkMC00NGRjLWEwOWItY2MwZmUwYTQzODcyIiwidCI6ImY1MTg1YWY3LTQ2YmUtNDRhNS05MDkyLWM4ZWMwZmQ4ZDBhNyJ9
 
