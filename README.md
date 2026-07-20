@@ -6,6 +6,7 @@ Roadmap to Safety: NYC Traffic Collision Analytics Dashboard
 An interactive, enterprise-grade Power BI dashboard that transforms 75,000 raw city incident logs into a cohesive data story. This project analyzes New York City's 2020 traffic collision data to uncover geographic bottlenecks, behavioral triggers, and time-based risk patterns. It features a fully custom SaaS-style user interface designed to help urban planners and logistics managers drive data-backed safety initiatives.
 
 -- Tech Stack & Power BI Architecture
+
 Power Query (ETL): Conducted extensive data cleaning, handled missing values, filtered out data anomalies (ensuring clean data hygiene for NYC's 5 core boroughs), and optimized data types for performance.
 
 Data Modeling: Established a robust Star Schema model, decoupling fact tables from dimension tables (Calendar, Geography, and Vehicle Types) to ensure lightning-fast report interactivity.
@@ -17,6 +18,7 @@ UI/UX Design: Implemented a modern, corporate Slate palette (#1E293B) with a per
 Custom Visuals: Integrated advanced visual components like an interactive timeline slicer to seamlessly filter multi-month trends.
 
 -- Project Goals
+
 Bridge Data and Action: Translate overwhelming municipal accident logs into clear, executive-level insights that can influence public safety policy.
 
 Optimize Visual Hierarchy: Demonstrate elite dashboard design principles—balancing clean data-to-ink ratios with intuitive, accessible layout structures.
@@ -24,6 +26,7 @@ Optimize Visual Hierarchy: Demonstrate elite dashboard design principles—balan
 Isolate High-Risk Vulnerabilities: Drill down past surface-level metrics to pinpoint exactly who is at risk, where they are at risk, and why.
 
 -- Business Questions Answered by This Dashboard
+
 How did the 2020 pandemic affect traffic safety?
 The dashboard features a time-series analysis with a historical marker tracking the immediate, drastic drop in daily accidents the moment the COVID-19 lockdown officially began.
 
