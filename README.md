@@ -2,6 +2,7 @@
 Roadmap to Safety: NYC Traffic Collision Analytics Dashboard
 
 -- Description
+
 An interactive, enterprise-grade Power BI dashboard that transforms 75,000 raw city incident logs into a cohesive data story. This project analyzes New York City's 2020 traffic collision data to uncover geographic bottlenecks, behavioral triggers, and time-based risk patterns. It features a fully custom SaaS-style user interface designed to help urban planners and logistics managers drive data-backed safety initiatives.
 
 -- Tech Stack & Power BI Architecture
