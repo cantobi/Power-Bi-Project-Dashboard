@@ -28,15 +28,19 @@ Isolate High-Risk Vulnerabilities: Drill down past surface-level metrics to pinp
 -- Business Questions Answered by This Dashboard
 
 How did the 2020 pandemic affect traffic safety?
+
 The dashboard features a time-series analysis with a historical marker tracking the immediate, drastic drop in daily accidents the moment the COVID-19 lockdown officially began.
 
 When are the most dangerous windows for drivers and pedestrians?
+
 Using a matrix heatmap, the report isolates the exact hour-of-day and day-of-week combinations, proving that Friday afternoons between 16:00 and 18:00 experience the highest density of accidents.
 
 Which boroughs and road users require the most immediate infrastructure support?
+
 The project breaks down total incidents by the 5 official NYC boroughs and segments the victims into motorists, cyclists, and pedestrians to highlight localized risk factors.
 
 What are the primary behavioral drivers behind severe accidents?
+
 The analysis categorizes the contributing human factors, revealing that "Driver Inattention" dominates total collisions, while "Unsafe Speed" is the leading cause of fatal incidents.
 
 
